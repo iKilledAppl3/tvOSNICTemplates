@@ -7,6 +7,7 @@ These are templates used for tvOS tweak development within Theos.
 # How to use?
 
 Simple copy the folder to your $THEOS/templates/ folder and you should be off to the races!
+Then run $THEOS/bin/nic.pl and choose the corresponding tvOS tweak or preference bundle template.
 
 ## Use with
 
